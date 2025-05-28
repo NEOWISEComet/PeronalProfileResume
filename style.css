@@ -271,6 +271,9 @@ html::-webkit-scrollbar, body::-webkit-scrollbar {
 .homeContentDiv{
     width: 50%;
 }
+#homeImage img{
+    width: auto
+}
 
 .profilePic {
     width: 100%;
